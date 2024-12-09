@@ -1,0 +1,23 @@
+POST http://localhost:3000/attendance
+Content-Type: application/json
+
+{
+  "name": "indah",
+  "date": "2024-12-07 20:34"
+}
+
+###
+GET http://localhost:3000/attendance
+Content-Type: application/json
+
+###
+PUT http://localhost:3000/attendance/1
+Content-Type: application/json
+
+{
+  "name": "Indah",
+  "date": "2024-12-09"
+}
+
+###
+DELETE http://localhost:3000/attendance/5
