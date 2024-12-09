@@ -1,5 +1,14 @@
 # Attendance App
 
+
+https://github.com/user-attachments/assets/1666050e-b1e4-47aa-b4a7-f0a4915fe652
+![image](https://github.com/user-attachments/assets/7150be7b-43ba-4766-84fc-87206574c508)
+![image](https://github.com/user-attachments/assets/26bff22f-8daf-49b0-8929-8ce49a993acc)
+
+
+
+
+
 Aplikasi sederhana untuk manajemen absensi menggunakan Express.js, Docker, dan frontend dengan HTML/JavaScript.
 
 ## Environment
