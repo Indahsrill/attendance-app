@@ -1,6 +1,7 @@
 # Attendance App
 
-[![Demo Video](https://via.placeholder.com/50x30.png?text=Klik+untuk+menonton)](https://github.com/user-attachments/assets/1666050e-b1e4-47aa-b4a7-f0a4915fe652)
+[![Demo Video](https://via.placeholder.com/100x50/0000FF/FFFFFF.png?text=Klik+untuk+menonton)](https://github.com/user-attachments/assets/1666050e-b1e4-47aa-b4a7-f0a4915fe652)
+
 ![image](https://github.com/user-attachments/assets/7150be7b-43ba-4766-84fc-87206574c508)
 ![image](https://github.com/user-attachments/assets/26bff22f-8daf-49b0-8929-8ce49a993acc)
 
